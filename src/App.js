@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         <code> wellome to devops jenkin test</code> from webhook
+         <code> wellome to devops hellow</code> from webhook
         </p>
         <a
           className="App-link"
